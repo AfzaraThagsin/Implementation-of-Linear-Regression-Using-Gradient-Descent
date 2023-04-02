@@ -105,9 +105,9 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 ![linear regression using gradient descent](22.png)
 ![linear regression using gradient descent](23.png)
 ![linear regression using gradient descent](24.png)
+![linear regression using gradient descent](27.png)
 ![linear regression using gradient descent](25.png)
 ![linear regression using gradient descent](26.png)
-![linear regression using gradient descent](27.png)
 
 
 ## Result:
