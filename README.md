@@ -22,6 +22,7 @@ Developed by: AFZARATHAGIN.J.S
 RegisterNumber:  212221040006
 */
 ```
+```
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -99,7 +100,7 @@ print("For population = 35,000, we predict a profit of $"+str(round(predict1,0))
 predict2=predict(np.array([1,7]),theta)*10000
 print("Profit for the Population 70,000")
 print("For population = 70,000, we predict a profit of $"+str(round(predict2,0)))
-
+```
 ## Output:
 ![linear regression using gradient descent](21.png)
 ![linear regression using gradient descent](22.png)
